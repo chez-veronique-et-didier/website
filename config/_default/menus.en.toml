@@ -1,0 +1,24 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "Pricing"
+url = "pricing/"
+weight = 5
+  
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 6
+
+
+# footer menu
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 7

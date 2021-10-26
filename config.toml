@@ -1,0 +1,6 @@
+baseURL = "https://parapentelaclusaz.github.io/"
+languageCode = "fr-FR"
+title = "Chez Véronique et Didier"
+themesDir = "themes"
+theme = "airspace-hugo-n"
+
