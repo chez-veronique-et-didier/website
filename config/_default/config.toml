@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://parapentelaclusaz.github.io/"
+baseURL = "https://chez-veronique-et-didier.github.io/"
 title = "Chez Véronique et Didier"
 languageCode = "fr-FR"
 theme = "airspace-hugo-n"

@@ -21,7 +21,7 @@ phone = "06 84 15 44 64"
 email = "montetveronique5@free.fr"
 location = """
 **Chez Véronique et Didier**  
-North Main Street  
+41 Av des Anciens Combattants  
 Aimargues, Occitanie  
 France
 """
@@ -35,11 +35,11 @@ google_tag_manager = "" # example: G-XXXXXXXXXX
 [contact.form]
 enable = true
 # Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)
-use_netlify = true
+use_netlify = false
 # Form action
 ## Fill in your Form ID URL for Formspree.io, e.g. `https://formspree.io/f/{form_id}`
 ## Ignored if `use_netlify = true` (custom [success page](https://docs.netlify.com/forms/setup/#success-messages) is already included) 
-action = "#"
+action = "https://formspree.io/f/xpzkengz"
 # Image on custom success page `/message_sent.html`
 success_image = "images/paper-plane.svg"
 
@@ -86,10 +86,10 @@ baidu = "" # Your verification code
 # google map
 [gmap]
 enable = true
-gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
+gmap_api = "AIzaSyAs1sAcziVwyJnTs3TYMTC0u3AUZIodFyA"
+map_latitude = "43.683160"
+map_longitude = "4.2078657"
+#map_marker = "images/marker.png"
 
 # cookies
 [cookies]

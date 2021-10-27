@@ -15,7 +15,7 @@ pricing:
   - name : "One room"
     price: "€60"
     content : "Perfect for two persons"
-    link : "contact/"
+    link : "../contact/"
     services:
     - Bathroom
     - Breakfast
@@ -24,7 +24,7 @@ pricing:
   - name : "Two rooms"
     price: "€95"
     content : "Suitable for group of maximum four"
-    link : "contact/"
+    link : "../contact/"
     services:
     - Bathrooms
     - Breakfast

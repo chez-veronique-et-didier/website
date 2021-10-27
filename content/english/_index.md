@@ -4,11 +4,12 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Véronique and Didier welcom you to their warm house"
+  title: "Véronique and Didier welcome you to their warm house"
   content: "Discover typical southern life in a vineyard house with local hosts"
   button:
     enable: true
     label: "Book a Night"
+    link: "contact"
 
 ############################# About #################################
 about:

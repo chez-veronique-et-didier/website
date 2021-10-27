@@ -19,6 +19,16 @@ weight = 6
 
 # footer menu
 [[footer]]
+name = "Home"
+url = ""
+weight = 1
+
+[[footer]]
+name = "Pricing"
+url = "pricing/"
+weight = 5
+
+[[footer]]
 name = "Contact"
 url = "contact/"
 weight = 7
