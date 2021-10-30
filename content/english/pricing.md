@@ -1,15 +1,13 @@
 ---
-title: "Our Pricing"
-description: "This is pricing for on night"
-bg_image: "images/feature-bg.jpg"
+title: "Our Prices"
+description: "This is our price for a calm night"
+bg_image: "images/slider-bg.jpg"
 layout: "pricing"
 draft: false
 
 ################################ pricing ################################
 pricing:
   enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia"
   pricing_table:
   # pricing table loop
   - name : "One room"
@@ -17,6 +15,7 @@ pricing:
     content : "Perfect for two persons"
     link : "../contact/"
     services:
+    - Television
     - Bathroom
     - Breakfast
 
@@ -26,9 +25,9 @@ pricing:
     content : "Suitable for group of maximum four"
     link : "../contact/"
     services:
-    - Bathrooms
+    - Television
+    - Bathroom
     - Breakfast
-
 
 ############################# call to action #################################
 cta:

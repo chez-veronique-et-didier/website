@@ -1,7 +1,7 @@
 ---
-title: "Our Pricing"
-description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+title: "os Tarifs"
+description: "Nous présentons nos tarifs pour une nuit tranquille"
+bg_image: "images/slider-bg.jpg"
 layout: "pricing"
 draft: false
 
@@ -10,43 +10,24 @@ pricing:
   enable : true
   pricing_table:
   # pricing table loop
-  - name : "Basic"
-    price: "$99"
-    content : "Perfect for single freelancers who work by themselves"
-    link : "#"
+  - name : "Une Chambre"
+    price: "€60"
+    content : "Pour deux personnes"
+    link : "../contact/"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Télévision
+    - Salle de bain
+    - Petit déjeuner
 
   # pricing table loop
-  - name : "Premium"
-    price: "$199"
-    content : "Suitable for small businesses with up to 5 employees"
-    link : "#"
+  - name : "Deux Chambres"
+    price: "€95"
+    content : "Convient pour un maximum de quatre convives"
+    link : "../contact/"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
-
-  # pricing table loop
-  - name : "Advance"
-    price: "$299"
-    content : "Suitable for large businesses with unlimited employees"
-    link : "#"
-    services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Télévision
+    - Salle de bain
+    - Petit déjeuner
 
 ############################# call to action #################################
 cta:

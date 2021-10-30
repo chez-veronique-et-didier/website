@@ -1,7 +1,7 @@
 ---
-title: "Drop Us A Note"
+title: "Contact"
 description: "Please contact us"
-bg_image: "images/salle-sejour.jpg"
+bg_image: "images/slider-bg.jpg"
 layout: "contact"
 draft: false
 ---

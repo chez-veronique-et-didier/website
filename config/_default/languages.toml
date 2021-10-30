@@ -13,15 +13,15 @@ contentDir = "content/english"
 weight = 2
 
 ################ Italian language #################
-[it]
-languageName = "Italiano"
-languageCode = "it-IT"
-contentDir = "content/italian"
-weight = 3
+#[it]
+#languageName = "Italiano"
+#languageCode = "it-IT"
+#contentDir = "content/italian"
+#weight = 3
 
 ################ German language ##################
-[de]
-languageName = "Deutsch"
-languageCode = "de-DE"
-contentDir = "content/german"
-weight = 4
+#[de]
+#languageName = "Deutsch"
+#languageCode = "de-DE"
+#contentDir = "content/german"
+#weight = 4

@@ -7,14 +7,14 @@ url = ""
 weight = 1
 
 [[main]]
-name = "Pricing"
+name = "Our Prices"
 url = "pricing/"
-weight = 5
+weight = 2
   
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 3
 
 
 # footer menu
@@ -24,11 +24,11 @@ url = ""
 weight = 1
 
 [[footer]]
-name = "Pricing"
+name = "Our Prices"
 url = "pricing/"
-weight = 5
+weight = 2
 
 [[footer]]
 name = "Contact"
 url = "contact/"
-weight = 7
+weight = 3
