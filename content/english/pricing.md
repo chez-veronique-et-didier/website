@@ -11,7 +11,7 @@ pricing:
   pricing_table:
   # pricing table loop
   - name : "One room"
-    price: "€60"
+    price: "€65"
     content : "Perfect for two persons"
     link : "../contact/"
     services:

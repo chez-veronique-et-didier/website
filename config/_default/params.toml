@@ -87,9 +87,9 @@ baidu = "" # Your verification code
 [gmap]
 enable = true
 gmap_api = "AIzaSyAs1sAcziVwyJnTs3TYMTC0u3AUZIodFyA"
-map_latitude = "43.683160"
+map_latitude = "43.6831600"
 map_longitude = "4.2078657"
-#map_marker = "images/marker.png"
+map_marker = "images/marker.png"
 
 # cookies
 [cookies]

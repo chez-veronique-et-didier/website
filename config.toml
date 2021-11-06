@@ -2,5 +2,5 @@ baseURL = "https://chez-veronique-et-didier.github.io/"
 languageCode = "fr-FR"
 title = "Chez Véronique et Didier"
 themesDir = "themes"
-theme = "airspace-hugo-n"
+theme = "airspace-hugo"
 
