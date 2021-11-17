@@ -1,5 +1,5 @@
 ---
-title: "os Tarifs"
+title: "Nos tarifs"
 description: "Nous présentons nos tarifs pour une nuit tranquille"
 bg_image: "images/slider-bg.jpg"
 layout: "pricing"
