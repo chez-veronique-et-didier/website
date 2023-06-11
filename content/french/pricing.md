@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "Nos Tarifs"
+=======
+title: "Nos tarifs"
+>>>>>>> master
 description: "Nous présentons nos tarifs pour une nuit tranquille"
 bg_image: "images/slider-bg.png"
 layout: "pricing"
