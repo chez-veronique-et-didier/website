@@ -1,7 +1,7 @@
 ---
 title: "Our Prices"
 description: "This is our price for a calm night"
-bg_image: "images/slider-bg.jpg"
+bg_image: "images/slider-bg.png"
 layout: "pricing"
 draft: false
 
@@ -11,7 +11,7 @@ pricing:
   pricing_table:
   # pricing table loop
   - name : "One room"
-    price: "€60"
+    price: "€65"
     content : "Perfect for two persons"
     link : "../contact/"
     services:
@@ -21,7 +21,7 @@ pricing:
 
   # pricing table loop
   - name : "Two rooms"
-    price: "€95"
+    price: "€100"
     content : "Suitable for group of maximum four"
     link : "../contact/"
     services:

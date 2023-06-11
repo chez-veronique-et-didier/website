@@ -1,7 +1,7 @@
 ---
-title: "os Tarifs"
+title: "Nos Tarifs"
 description: "Nous présentons nos tarifs pour une nuit tranquille"
-bg_image: "images/slider-bg.jpg"
+bg_image: "images/slider-bg.png"
 layout: "pricing"
 draft: false
 
@@ -11,7 +11,7 @@ pricing:
   pricing_table:
   # pricing table loop
   - name : "Une Chambre"
-    price: "€60"
+    price: "€65"
     content : "Pour deux personnes"
     link : "../contact/"
     services:
@@ -21,7 +21,7 @@ pricing:
 
   # pricing table loop
   - name : "Deux Chambres"
-    price: "€95"
+    price: "€100"
     content : "Convient pour un maximum de quatre convives"
     link : "../contact/"
     services:

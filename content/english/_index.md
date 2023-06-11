@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "images/slider-bg.png"
   bg_overlay: true
   title: "Véronique and Didier welcome you to their warm house"
   content: "Discover typical southern life in a vineyard house with local hosts"
